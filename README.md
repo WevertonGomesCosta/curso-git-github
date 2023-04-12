@@ -19,7 +19,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 1. Começando com GIT.
     1. O que é git?
     2. Istalando git na maquina.
-2. Aprendendo sobre brancher.
+2. Aprendendo sobre branches.
 3. GIT Avançado.
 4. Usando github de forma profissional
 
@@ -61,3 +61,10 @@ function showName(nome){
     color: #FF0000;
 }
 ```
+
+Propriedade | Descrição 
+----------- | ---------
+name | Para informar o nome do usuario
+size | Para definir o tamanho do campo
+backgriund | Cor de fundo da area em HEX
+onPress | Função chamada quando clicar no botão
